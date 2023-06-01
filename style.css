@@ -1,3 +1,12 @@
+/* 
+#61481C
+#A47E3B
+#BF9742
+#E6B325
+rgba(4,9,30,0.7)
+rgba(38,71,38,0.7)
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -5,9 +14,9 @@
 }
 
 .header {
-    max-height: 100vh;
+    min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient (rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(img/banner.png);
     background-position: center;
     background-size: cover;
     position: relative;
