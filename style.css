@@ -21,3 +21,33 @@ rgba(38,71,38,0.7)
     background-size: cover;
     position: relative;
 }
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: 150px;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 8px 12px;
+    position: relative;
+
+}
+
+.nav-links ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+}
