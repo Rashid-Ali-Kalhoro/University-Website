@@ -333,6 +333,12 @@ h3 {
         flex-direction: column;
     }
     /* ----------END COURSE---------- */
-}
 
+    /* ----------TESTIMONIALS---------- */
+    .testimonial-col img {
+        margin-left: 0px;
+        margin-right: 15px;
+    }
+    /* ----------END TESTIMONIALS---------- */
+}
 /* ---------- END MEDIA QUERY FOR MOBILE ---------- */
