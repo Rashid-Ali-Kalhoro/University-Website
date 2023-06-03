@@ -357,5 +357,11 @@ h3 {
         margin-right: 15px;
     }
     /* ----------END TESTIMONIALS---------- */
+
+    /* ----------CALL TO ACTION---------- */
+    .cta h1 {
+        font-size: 24px;
+    }
+    /* ----------END CALL TO ACTION---------- */
 }
 /* ---------- END MEDIA QUERY FOR MOBILE ---------- */
