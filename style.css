@@ -304,6 +304,11 @@ h3 {
     margin-bottom: 40px;
     padding: 0;
 }
+
+.cta .fa {
+    color: #f44336;
+    font-size: 50px;
+}
 /* ---------- END CALL TO ACTION ---------- */
 
 /* ---------- FOOTER ---------- */
