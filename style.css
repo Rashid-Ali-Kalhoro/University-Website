@@ -435,6 +435,19 @@ h3 {
 .comment-box h3 {
     text-align: left;
 }
+
+.comment-form input, .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    border: none;
+    outline: none;
+    background: #f0f0f0;
+}
+
+.comment-form button {
+    margin: 10px 0;
+}
 /* ---------- END BLOG PAGE ---------- */
 
 
@@ -497,5 +510,8 @@ h3 {
         font-size: 24px;
     }
     /* ----------END CALL TO ACTION---------- */
+    .sub-header h1 {
+        font-size: 25px;
+    }
 }
 /* ---------- END MEDIA QUERY FOR MOBILE ---------- */
