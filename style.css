@@ -334,6 +334,10 @@ h3 {
 .fa-heart-o {
     color: #f44336;
 }
+
+.footer p a {
+    text-decoration: none;
+}
 /* ---------- END FOOTER ---------- */
 
 /* ---------- ABOUT US PAGE ---------- */
